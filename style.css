@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: #4d7bff;
+  color: #fff;
+}
+
+.logo {
+  padding: 1rem;
+}
+
+ul {
+  display: flex;
+}
+
+li {
+  list-style: none;
+  margin: 1rem;
+}
+a {
+  text-decoration: none;
+  color: #fff;
+}
